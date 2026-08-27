@@ -12,7 +12,7 @@
     <artifactId>maven-tutorial</artifactId>
     <version>1.0.2-bs</version>
 
-    <packaging>ear</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
